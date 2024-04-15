@@ -1,0 +1,1 @@
+{'100': {'name': 'Pooja Singh', 'address': 'Vaishali', 'ph_no': 1234567890, 'gov_id': 'dht4678', 'type': 'Saving', 'amount': 30000, 'rm_rent': 8000}}

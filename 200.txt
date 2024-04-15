@@ -1,0 +1,1 @@
+{'200': {'name': 'Nancy', 'address': 'pv', 'ph_no': 544677980, 'Chk_in': '26/12/2023', 'chk_out': '31/12/2023', 'rm_rent': 24000, 'res_bill': 500, 'laund_bill': 29, 'game_bill': 140, 'tot_bill': 0}}
